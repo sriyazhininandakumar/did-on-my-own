@@ -1,0 +1,31 @@
+[{
+    "id":1,
+    "img":"https://t3.ftcdn.net/jpg/04/84/89/34/240_F_484893466_pwJGN23ka353WUPQIEOU14FDoImuEmbK.jpg",
+    "name":"Harry potter",
+    "author":"j k rowling"
+},
+{
+    "id":2,
+    "img":"https://media.istockphoto.com/id/592400182/photo/halloween-the-medieval-alchemist-reading-a-book.webp?a=1&b=1&s=612x612&w=0&k=20&c=ZbfJAsp-7um_asxKptRvTcMgD9BK_AuvyUucmyhrItk=",
+    "name":"the alchemist",
+    "author":"paulo choelo"
+},
+{
+    "id":3,
+    "img":"https://media.istockphoto.com/id/1628973085/photo/silver-and-black-glitter-bokeh-background-for-black-friday-design.webp?a=1&b=1&s=612x612&w=0&k=20&c=PEmfJFrk0oLvrQTVizZVv20HNkpFrkghaci-Q81Laoo=",
+    "name":"the palace of illusions",
+    "author":"divakaruni banerjee"
+},
+{
+    "id":4,
+    "img":"https://media.istockphoto.com/id/2163017498/photo/abstract-watercolor-background-in-coral-pink-color-with-stipple-texture.webp?a=1&b=1&s=612x612&w=0&k=20&c=Dk8A9jvZ8SOxiPENrVW5IHctMzxwQHw4litZ2Q-SWdI=",
+    "name":"pride and prejudice",
+    "author":"j k rowling"
+},
+{
+    "id":5,
+    "img":"https://images.unsplash.com/photo-1542397284385-6010376c5337?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D",
+    "name":"the adventures of huckleberry finn",
+    "author":"Mark twain"
+}
+]
